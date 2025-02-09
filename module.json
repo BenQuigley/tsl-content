@@ -21,6 +21,8 @@
 			"label":"Character Sheets",
 			"system":"pbta",
 			"path":"packs/character-sheets",
+      "private":false,
+      "flags": {},
 			"entity":"Actor"
 		},
 		{
@@ -29,6 +31,8 @@
 			"label":"Expanded Moves",
 			"system":"pbta",
 			"path":"packs/expanded-moves",
+      "private":false,
+      "flags": {},
 			"entity":"Item"
 		},
 		{
@@ -37,6 +41,8 @@
 			"label":"TSL Playbooks",
 			"system":"pbta",
 			"path":"packs/playbooks",
+      "private":false,
+      "flags": {},
 			"entity":"Item"
 		},
 
@@ -46,6 +52,8 @@
 			"label":"The Beast Moves",
 			"system":"pbta",
 			"path":"packs/the-beast-moves",
+      "private":false,
+      "flags": {},
 			"entity":"Item"
 		},
 
@@ -55,6 +63,8 @@
 			"label":"The Chosen Moves",
 			"system":"pbta",
 			"path":"packs/the-chosen-moves",
+      "private":false,
+      "flags": {},
 			"entity":"Item"
 		},
 
@@ -64,6 +74,8 @@
 			"label":"The Devoted Moves",
 			"system":"pbta",
 			"path":"packs/the-devoted-moves",
+      "private":false,
+      "flags": {},
 			"entity":"Item"
 		},
 
@@ -73,6 +85,8 @@
 			"label":"The Infamous Moves",
 			"system":"pbta",
 			"path":"packs/the-infamous-moves",
+      "private":false,
+      "flags": {},
 			"entity":"Item"
 		},
 
@@ -82,6 +96,8 @@
 			"label":"The Nature Witch Moves",
 			"system":"pbta",
 			"path":"packs/the-nature-witch-moves",
+      "private":false,
+      "flags": {},
 			"entity":"Item"
 		},
 
@@ -91,6 +107,8 @@
 			"label":"The Scoundrel Moves",
 			"system":"pbta",
 			"path":"packs/the-scoundrel-moves",
+      "private":false,
+      "flags": {},
 			"entity":"Item"
 		},
 
@@ -100,6 +118,8 @@
 			"label":"The Seeker Moves",
 			"system":"pbta",
 			"path":"packs/the-seeker-moves",
+      "private":false,
+      "flags": {},
 			"entity":"Item"
 		},
 
@@ -109,6 +129,8 @@
 			"label":"The Spooky Witch Moves",
 			"system":"pbta",
 			"path":"packs/the-spooky-witch-moves",
+      "private":false,
+      "flags": {},
 			"entity":"Item"
 		},
 		{
@@ -117,6 +139,8 @@
 			"label":"The Trickster Moves",
 			"system":"pbta",
 			"path":"packs/the-trickster-moves",
+      "private":false,
+      "flags": {},
 			"entity":"Item"
 		},
 		{
@@ -125,6 +149,8 @@
 			"label":"Tools and Resources",
 			"system":"pbta",
 			"path":"packs/tools-and-resources",
+      "private":false,
+      "flags": {},
 			"entity":"JournalEntry"
 		},
 		{
@@ -133,6 +159,8 @@
 			"label":"Universal Moves",
 			"system":"pbta",
 			"path":"packs/universal-moves",
+      "private":false,
+      "flags": {},
 			"entity":"Item"
 		}
 	],
