@@ -1,140 +1,140 @@
 {
-	"id": "tsl-content",
-	"title": "Thirsty Sword Lesbians Content",
-	"description": "An unofficial content pack containing character sheets, playbooks, and moves from Thirsty Sword Lesbians for the PbtA System",
-	"author": "zsilverfox",
-	"version": "1.0.4",
-	"relationships": {
-		"systems": [{
-			"id": "pbta",
-			"type": "system"
+	"id":"tsl-content",
+	"title":"Thirsty Sword Lesbians Content",
+	"description":"An unofficial content pack containing character sheets, playbooks, and moves from Thirsty Sword Lesbians for the PbtA System",
+	"author":"zsilverfox",
+	"version":"1.0.4",
+	"relationships":{
+		"systems":[{
+			"id":"pbta",
+			"type":"system"
 		}]
 	},
 
-	"compatibility": {
-		"minimum": "10",
-		"verified": "11.315"
+	"compatibility":{
+		"minimum":"10",
+		"verified":"11.315"
 	},
-	"packs": [{
-			"name": "character-sheets",
-			"label": "Character Sheets",
-			"system": "pbta",
-			"type": "Actor",
-			"path": "packs/character-sheets",
-			"entity": "Actor"
+	"packs":[{
+			"name":"character-sheets",
+			"type":"Actor",
+			"label":"Character Sheets",
+			"system":"pbta",
+			"path":"packs/character-sheets",
+			"entity":"Actor"
 		},
 		{
-			"name": "expanded-moves",
-			"label": "Expanded Moves",
-			"system": "pbta",
-			"type": "Item",
-			"path": "packs/expanded-moves",
-			"entity": "Item"
+			"name":"expanded-moves",
+			"type":"Item",
+			"label":"Expanded Moves",
+			"system":"pbta",
+			"path":"packs/expanded-moves",
+			"entity":"Item"
 		},
 		{
-			"name": "playbooks",
-			"label": "TSL Playbooks",
-			"system": "pbta",
-			"type": "Item",
-			"path": "packs/playbooks",
-			"entity": "Item"
-		},
-
-		{
-			"name": "the-beast-moves",
-			"label": "The Beast Moves",
-			"system": "pbta",
-			"type": "Item",
-			"path": "packs/the-beast-moves",
-			"entity": "Item"
+			"name":"playbooks",
+			"type":"Item",
+			"label":"TSL Playbooks",
+			"system":"pbta",
+			"path":"packs/playbooks",
+			"entity":"Item"
 		},
 
 		{
-			"name": "the-chosen-moves",
-			"label": "The Chosen Moves",
-			"system": "pbta",
-			"type": "Item",
-			"path": "packs/the-chosen-moves",
-			"entity": "Item"
+			"name":"the-beast-moves",
+			"type":"Item",
+			"label":"The Beast Moves",
+			"system":"pbta",
+			"path":"packs/the-beast-moves",
+			"entity":"Item"
 		},
 
 		{
-			"name": "the-devoted-moves",
-			"label": "The Devoted Moves",
-			"system": "pbta",
-			"type": "Item",
-			"path": "packs/the-devoted-moves",
-			"entity": "Item"
+			"name":"the-chosen-moves",
+			"type":"Item",
+			"label":"The Chosen Moves",
+			"system":"pbta",
+			"path":"packs/the-chosen-moves",
+			"entity":"Item"
 		},
 
 		{
-			"name": "the-infamous-moves",
-			"label": "The Infamous Moves",
-			"system": "pbta",
-			"type": "Item",
-			"path": "packs/the-infamous-moves",
-			"entity": "Item"
+			"name":"the-devoted-moves",
+			"type":"Item",
+			"label":"The Devoted Moves",
+			"system":"pbta",
+			"path":"packs/the-devoted-moves",
+			"entity":"Item"
 		},
 
 		{
-			"name": "the-nature-witch-moves",
-			"label": "The Nature Witch Moves",
-			"system": "pbta",
-			"type": "Item",
-			"path": "packs/the-nature-witch-moves",
-			"entity": "Item"
+			"name":"the-infamous-moves",
+			"type":"Item",
+			"label":"The Infamous Moves",
+			"system":"pbta",
+			"path":"packs/the-infamous-moves",
+			"entity":"Item"
 		},
 
 		{
-			"name": "the-scoundrel-moves",
-			"label": "The Scoundrel Moves",
-			"system": "pbta",
-			"type": "Item",
-			"path": "packs/the-scoundrel-moves",
-			"entity": "Item"
+			"name":"the-nature-witch-moves",
+			"type":"Item",
+			"label":"The Nature Witch Moves",
+			"system":"pbta",
+			"path":"packs/the-nature-witch-moves",
+			"entity":"Item"
 		},
 
 		{
-			"name": "the-seeker-moves",
-			"label": "The Seeker Moves",
-			"system": "pbta",
-			"type": "Item",
-			"path": "packs/the-seeker-moves",
-			"entity": "Item"
+			"name":"the-scoundrel-moves",
+			"type":"Item",
+			"label":"The Scoundrel Moves",
+			"system":"pbta",
+			"path":"packs/the-scoundrel-moves",
+			"entity":"Item"
 		},
 
 		{
-			"name": "the-spooky-witch-moves",
-			"label": "The Spooky Witch Moves",
-			"system": "pbta",
-			"type": "Item",
-			"path": "packs/the-spooky-witch-moves",
-			"entity": "Item"
+			"name":"the-seeker-moves",
+			"type":"Item",
+			"label":"The Seeker Moves",
+			"system":"pbta",
+			"path":"packs/the-seeker-moves",
+			"entity":"Item"
+		},
+
+		{
+			"name":"the-spooky-witch-moves",
+			"type":"Item",
+			"label":"The Spooky Witch Moves",
+			"system":"pbta",
+			"path":"packs/the-spooky-witch-moves",
+			"entity":"Item"
 		},
 		{
-			"name": "the-trickster-moves",
-			"label": "The Trickster Moves",
-			"system": "pbta",
-			"type": "Item",
-			"path": "packs/the-trickster-moves",
-			"entity": "Item"
+			"name":"the-trickster-moves",
+			"type":"Item",
+			"label":"The Trickster Moves",
+			"system":"pbta",
+			"path":"packs/the-trickster-moves",
+			"entity":"Item"
 		},
 		{
-			"name": "tools-and-resources",
-			"label": "Tools and Resources",
-			"system": "pbta",
-			"type": "JournalEntry",
-			"path": "packs/tools-and-resources",
-			"entity": "JournalEntry"
+			"name":"tools-and-resources",
+			"type":"JournalEntry",
+			"label":"Tools and Resources",
+			"system":"pbta",
+			"path":"packs/tools-and-resources",
+			"entity":"JournalEntry"
 		},
 		{
-			"name": "universal-moves",
-			"label": "Universal Moves",
-			"system": "pbta",
-			"type": "Item",
-			"path": "packs/universal-moves",
-			"entity": "Item"
+			"name":"universal-moves",
+			"type":"Item",
+			"label":"Universal Moves",
+			"system":"pbta",
+			"path":"packs/universal-moves",
+			"entity":"Item"
 		}
 	],
-	"download": "https://github.com/zsf-stuff/tsl-content/raw/main/tsl-content.zip"	
+	"download":"https://github.com/zsf-stuff/tsl-content/raw/main/tsl-content.zip"
 }
