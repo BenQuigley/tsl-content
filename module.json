@@ -19,7 +19,7 @@
 			"name": "character-sheets",
 			"label": "Character Sheets",
 			"system": "pbta",
-			"path": "packs/character-sheets.db",
+			"path": "packs/character-sheets",
 			"entity": "Actor",
 			"type": "Actor"
 		},
@@ -27,7 +27,7 @@
 			"name": "expanded-moves",
 			"label": "Expanded Moves",
 			"system": "pbta",
-			"path": "packs/expanded-moves.db",
+			"path": "packs/expanded-moves",
 			"entity": "Item",
 			"type": "Item"
 		},
@@ -35,7 +35,7 @@
 			"name": "playbooks",
 			"label": "TSL Playbooks",
 			"system": "pbta",
-			"path": "packs/playbooks.db",
+			"path": "packs/playbooks",
 			"entity": "Item",
 			"type": "Item"
 		},
@@ -44,7 +44,7 @@
 			"name": "the-beast-moves",
 			"label": "The Beast Moves",
 			"system": "pbta",
-			"path": "packs/the-beast-moves.db",
+			"path": "packs/the-beast-moves",
 			"entity": "Item",
 			"type": "Item"
 		},
@@ -53,7 +53,7 @@
 			"name": "the-chosen-moves",
 			"label": "The Chosen Moves",
 			"system": "pbta",
-			"path": "packs/the-chosen-moves.db",
+			"path": "packs/the-chosen-moves",
 			"entity": "Item",
 			"type": "Item"
 		},
@@ -62,7 +62,7 @@
 			"name": "the-devoted-moves",
 			"label": "The Devoted Moves",
 			"system": "pbta",
-			"path": "packs/the-devoted-moves.db",
+			"path": "packs/the-devoted-moves",
 			"entity": "Item",
 			"type": "Item"
 		},
@@ -71,7 +71,7 @@
 			"name": "the-infamous-moves",
 			"label": "The Infamous Moves",
 			"system": "pbta",
-			"path": "packs/the-infamous-moves.db",
+			"path": "packs/the-infamous-moves",
 			"entity": "Item",
 			"type": "Item"
 		},
@@ -80,7 +80,7 @@
 			"name": "the-nature-witch-moves",
 			"label": "The Nature Witch Moves",
 			"system": "pbta",
-			"path": "packs/the-nature-witch-moves.db",
+			"path": "packs/the-nature-witch-moves",
 			"entity": "Item",
 			"type": "Item"
 		},
@@ -89,7 +89,7 @@
 			"name": "the-scoundrel-moves",
 			"label": "The Scoundrel Moves",
 			"system": "pbta",
-			"path": "packs/the-scoundrel-moves.db",
+			"path": "packs/the-scoundrel-moves",
 			"entity": "Item",
 			"type": "Item"
 		},
@@ -98,7 +98,7 @@
 			"name": "the-seeker-moves",
 			"label": "The Seeker Moves",
 			"system": "pbta",
-			"path": "packs/the-seeker-moves.db",
+			"path": "packs/the-seeker-moves",
 			"entity": "Item",
 			"type": "Item"
 		},
@@ -107,7 +107,7 @@
 			"name": "the-spooky-witch-moves",
 			"label": "The Spooky Witch Moves",
 			"system": "pbta",
-			"path": "packs/the-spooky-witch-moves.db",
+			"path": "packs/the-spooky-witch-moves",
 			"entity": "Item",
 			"type": "Item"
 		},
@@ -115,7 +115,7 @@
 			"name": "the-trickster-moves",
 			"label": "The Trickster Moves",
 			"system": "pbta",
-			"path": "packs/the-trickster-moves.db",
+			"path": "packs/the-trickster-moves",
 			"entity": "Item",
 			"type": "Item"
 		},
@@ -123,7 +123,7 @@
 			"name": "tools-and-resources",
 			"label": "Tools and Resources",
 			"system": "pbta",
-			"path": "packs/tools-and-resources.db",
+			"path": "packs/tools-and-resources",
 			"entity": "JournalEntry",
 			"type": "JournalEntry"
 		},
@@ -131,7 +131,7 @@
 			"name": "universal-moves",
 			"label": "Universal Moves",
 			"system": "pbta",
-			"path": "packs/universal-moves.db",
+			"path": "packs/universal-moves",
 			"entity": "Item",
 			"type": "Item"
 		}
