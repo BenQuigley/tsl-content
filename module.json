@@ -22,8 +22,7 @@
 			"system":"pbta",
 			"path":"packs/character-sheets",
 			"private":false,
-			"flags": {},
-			"entity":"Actor"
+			"flags": {}
 		},
 		{
 			"name":"expanded-moves",
@@ -32,8 +31,7 @@
 			"system":"pbta",
 			"path":"packs/expanded-moves",
 			"private":false,
-			"flags": {},
-			"entity":"Item"
+			"flags": {}
 		},
 		{
 			"name":"playbooks",
@@ -42,8 +40,7 @@
 			"system":"pbta",
 			"path":"packs/playbooks",
 			"private":false,
-			"flags": {},
-			"entity":"Item"
+			"flags": {}
 		},
 
 		{
@@ -53,8 +50,7 @@
 			"system":"pbta",
 			"path":"packs/the-beast-moves",
 			"private":false,
-			"flags": {},
-			"entity":"Item"
+			"flags": {}
 		},
 
 		{
@@ -64,8 +60,7 @@
 			"system":"pbta",
 			"path":"packs/the-chosen-moves",
 			"private":false,
-			"flags": {},
-			"entity":"Item"
+			"flags": {}
 		},
 
 		{
@@ -75,8 +70,7 @@
 			"system":"pbta",
 			"path":"packs/the-devoted-moves",
 			"private":false,
-			"flags": {},
-			"entity":"Item"
+			"flags": {}
 		},
 
 		{
@@ -86,8 +80,7 @@
 			"system":"pbta",
 			"path":"packs/the-infamous-moves",
 			"private":false,
-			"flags": {},
-			"entity":"Item"
+			"flags": {}
 		},
 
 		{
@@ -97,8 +90,7 @@
 			"system":"pbta",
 			"path":"packs/the-nature-witch-moves",
 			"private":false,
-			"flags": {},
-			"entity":"Item"
+			"flags": {}
 		},
 
 		{
@@ -108,8 +100,7 @@
 			"system":"pbta",
 			"path":"packs/the-scoundrel-moves",
 			"private":false,
-			"flags": {},
-			"entity":"Item"
+			"flags": {}
 		},
 
 		{
@@ -119,8 +110,7 @@
 			"system":"pbta",
 			"path":"packs/the-seeker-moves",
 			"private":false,
-			"flags": {},
-			"entity":"Item"
+			"flags": {}
 		},
 
 		{
@@ -130,8 +120,7 @@
 			"system":"pbta",
 			"path":"packs/the-spooky-witch-moves",
 			"private":false,
-			"flags": {},
-			"entity":"Item"
+			"flags": {}
 		},
 		{
 			"name":"the-trickster-moves",
@@ -140,8 +129,7 @@
 			"system":"pbta",
 			"path":"packs/the-trickster-moves",
 			"private":false,
-			"flags": {},
-			"entity":"Item"
+			"flags": {}
 		},
 		{
 			"name":"tools-and-resources",
@@ -150,8 +138,7 @@
 			"system":"pbta",
 			"path":"packs/tools-and-resources",
 			"private":false,
-			"flags": {},
-			"entity":"JournalEntry"
+			"flags": {}
 		},
 		{
 			"name":"universal-moves",
@@ -160,8 +147,7 @@
 			"system":"pbta",
 			"path":"packs/universal-moves",
 			"private":false,
-			"flags": {},
-			"entity":"Item"
+			"flags": {}
 		}
 	],
 	"download":"https://github.com/zsf-stuff/tsl-content/raw/main/tsl-content.zip"
